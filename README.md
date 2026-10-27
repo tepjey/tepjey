@@ -2,7 +2,7 @@
 
 # A'thif Uzair
 
-**Computer science student at IIUM · building practical web apps and intelligent systems**
+**Computer Science student at IIUM, specializing Artificial Intelligence · building practical web apps and intelligent systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f6b66?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a%E2%80%99thif-uzair-5194a0389/)
 [![SlipSnap](https://img.shields.io/badge/SlipSnap-live-0f6b66)](https://slipsnap.pages.dev/)
