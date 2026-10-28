@@ -33,6 +33,7 @@ The original [IIUM Schedule Converter](https://github.com/tepjey/iium-schedule-c
 
 | Project | Status |
 | --- | --- |
+| **[AURA](https://github.com/tepjey/AURA)** | Active. Version 2 is a full rewrite of my competition prototype: a React and TypeScript interface on a FastAPI backend, with mood-aware chat in English and Bahasa Melayu, flashcards and quizzes, a study planner and a focus timer, all running on your own computer. Now building a Windows desktop "notch" for it: a small black pill at the top of the screen that shows the time, glows in your mood colour and expands into a focus timer, mood check-in, calendar and quick chat. |
 | **[SlipSnap GPA and CGPA calculator](https://slipsnap.pages.dev/cgpa)** | Live and still growing. It supports both the existing and the revised IIUM grading scales, a target planner, and Pro extras such as saved "what if" scenarios, plan images and CSV or PDF export. Next: more checks against the academic regulations. |
 | **Rakaat Counter** | In development. A simple counter that keeps track of your rakaat during prayer. |
 | **SlipSnap theme requests** | Planned. Pro users could request a theme, and the best requests become built-in themes, such as a kulliyyah's colours or a student society's branding. |
@@ -41,7 +42,7 @@ The original [IIUM Schedule Converter](https://github.com/tepjey/iium-schedule-c
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[AURA](https://github.com/tepjey/AURA)** | **Top Silver Award, CFS IIUM Youth Innovation Competition (YIC) 2025.** A private, local-first study companion. It reads mood through the webcam, chats in English or Bahasa Melayu with Gemini, turns notes into flashcards and quizzes, plans a study timetable and runs a focus timer. | React, TypeScript, FastAPI, Python, Gemini |
+| **[AURA](https://github.com/tepjey/AURA)** | **Top Silver Award at CFS IIUM Youth Innovation Competition (YIC) 2025 and Silver Medal at PITRAM 2025 (UniSZA).** A private, local-first study companion. It reads mood through the webcam, chats in English or Bahasa Melayu with Gemini, turns notes into flashcards and quizzes, plans a study timetable and runs a focus timer. | React, TypeScript, FastAPI, Python, Gemini, Electron |
 | **Facial Expression Recognition** | Course project for BICS 2303 Intelligent Systems (group work). Classifies seven emotions by comparing pixel features against landmark geometry ratios across SVM, Decision Tree and Random Forest models, with an interactive interface. | Python, dlib |
 | **IIUM GardenGigs** | Group project for System Analysis and Design: a campus micro-employment platform with verified profiles, wage transparency and a payment flow, backed by UML models and a cost analysis. | HTML, CSS, JavaScript |
 | **Ringside** | Website and interactive macro bowl builder for a restaurant in Kuching. | React, TanStack Router, Tailwind CSS, Framer Motion |
@@ -51,7 +52,7 @@ The original [IIUM Schedule Converter](https://github.com/tepjey/iium-schedule-c
 ## Skills
 
 **Languages:** JavaScript · TypeScript · Python · HTML · CSS
-**Front end:** React · Vite · Tailwind CSS · Framer Motion
+**Front end:** React · Vite · Tailwind CSS · Framer Motion · Electron
 **Back end and data:** FastAPI · Cloudflare Pages Functions · Stripe
 **Tooling:** Git · GitHub Actions · Vitest · ESLint · Cloudflare · Vercel · Remotion
 
