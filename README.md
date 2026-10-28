@@ -41,7 +41,7 @@ The original [IIUM Schedule Converter](https://github.com/tepjey/iium-schedule-c
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **AURA** | **Top Silver Award, CFS IIUM Youth Innovation Competition (YIC) 2025.** A private, local-first study companion. It reads mood through the webcam, chats in English or Bahasa Melayu with Gemini, turns notes into flashcards and quizzes, plans a study timetable and runs a focus timer. | React, TypeScript, FastAPI, Python, Gemini |
+| **[AURA](https://github.com/tepjey/AURA)** | **Top Silver Award, CFS IIUM Youth Innovation Competition (YIC) 2025.** A private, local-first study companion. It reads mood through the webcam, chats in English or Bahasa Melayu with Gemini, turns notes into flashcards and quizzes, plans a study timetable and runs a focus timer. | React, TypeScript, FastAPI, Python, Gemini |
 | **Facial Expression Recognition** | Course project for BICS 2303 Intelligent Systems (group work). Classifies seven emotions by comparing pixel features against landmark geometry ratios across SVM, Decision Tree and Random Forest models, with an interactive interface. | Python, dlib |
 | **IIUM GardenGigs** | Group project for System Analysis and Design: a campus micro-employment platform with verified profiles, wage transparency and a payment flow, backed by UML models and a cost analysis. | HTML, CSS, JavaScript |
 | **Ringside** | Website and interactive macro bowl builder for a restaurant in Kuching. | React, TanStack Router, Tailwind CSS, Framer Motion |
