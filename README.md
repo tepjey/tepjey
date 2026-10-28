@@ -29,6 +29,14 @@ I'm a student at the International Islamic University Malaysia (IIUM). I build t
 
 The original [IIUM Schedule Converter](https://github.com/tepjey/iium-schedule-converter) address now redirects to SlipSnap.
 
+## Currently developing
+
+| Project | Status |
+| --- | --- |
+| **[SlipSnap GPA and CGPA calculator](https://slipsnap.pages.dev/cgpa)** | Live and still growing. It supports both the existing and the revised IIUM grading scales, a target planner, and Pro extras such as saved "what if" scenarios, plan images and CSV or PDF export. Next: more checks against the academic regulations. |
+| **Rakaat Counter** | In development. A simple counter that keeps track of your rakaat during prayer. |
+| **SlipSnap theme requests** | Planned. Pro users could request a theme, and the best requests become built-in themes, such as a kulliyyah's colours or a student society's branding. |
+
 ## Other projects
 
 | Project | What it is | Stack |
