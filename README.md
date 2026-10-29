@@ -33,7 +33,7 @@ The original [IIUM Schedule Converter](https://github.com/tepjey/iium-schedule-c
 
 | Project | Status |
 | --- | --- |
-| **[AURA](https://github.com/tepjey/AURA)** | Active. Version 2 is a full rewrite of my competition prototype: a React and TypeScript interface on a FastAPI backend, with mood-aware chat in English and Bahasa Melayu, flashcards and quizzes, a study planner and a focus timer, all running on your own computer. Now building a Windows desktop "notch" for it: a small black pill at the top of the screen that shows the time, glows in your mood colour and expands into a focus timer, mood check-in, calendar and quick chat. |
+| **AURA 2.0** | Active. Version 2 is a full rewrite of my competition prototype: a React and TypeScript interface on a FastAPI backend, with mood-aware chat in English and Bahasa Melayu, flashcards and quizzes, a study planner and a focus timer, all running on your own computer. Now building a Windows desktop "notch" for it: a small black pill at the top of the screen that shows the time, glows in your mood colour and expands into a focus timer, mood check-in, calendar and quick chat. |
 | **[SlipSnap GPA and CGPA calculator](https://slipsnap.pages.dev/cgpa)** | Live and still growing. It supports both the existing and the revised IIUM grading scales, a target planner, and Pro extras such as saved "what if" scenarios, plan images and CSV or PDF export. Next: more checks against the academic regulations. |
 | **Rakaat Counter** | In development. A simple counter that keeps track of your rakaat during prayer. |
 | **SlipSnap theme requests** | Planned. Pro users could request a theme, and the best requests become built-in themes, such as a kulliyyah's colours or a student society's branding. |
